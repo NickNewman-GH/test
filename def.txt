@@ -1,1 +1,6 @@
 fgghnfgyjmkr5
+
+git pull
+git push
+git remote
+git clone
